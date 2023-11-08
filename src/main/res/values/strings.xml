@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Secure Pal2</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_to_secure_pal">Welcome To Secure Pal</string>
+    <string name="enter_email">Enter email</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="logout">logout</string>
+    <string name="get_started1">Get Started</string>
+    <string name="todo1">TODO</string>
+    <string name="panic">PANIC</string>
+    <string name="setting">Setting</string>
+    <string name="get_location">Get Location</string>
+    <string name="next">Next</string>
+    <string name="secure_pal">Secure Pal</string>
+    <string name="settings_app_layout_constraintbottom_tobottomof">Settings app:layout_constraintBottom_toBottomOf=</string>
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="log_out">Log Out</string>
+    <string name="textview">TextView</string>
+    <string name="Emergency_Number">Emergency_Number</string>
+    <string name="done">Done</string>
+    <string name="check">check</string>
+    <string name="save">Save</string>
+    <string name="back2">back</string>
+    <string name="public_emergency_security_service">Public Emergency Security Service</string>
+    <string name="personal_emergency_safety_shield">Personal Emergency Safety Shield</string>
+    <string name="developed_by_kanij_fatima">Developed by Kanij Fatima</string>
+
+
+</resources>
